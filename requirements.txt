@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+aws-cdk-lib==2.168.0
